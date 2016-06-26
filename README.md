@@ -1,2 +1,2 @@
 # test
-This is a tst repository for testing .git and github interfacing
+This is a test repository for testing .git and github interfacing
